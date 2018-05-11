@@ -1,2 +1,2 @@
 # py-nif
-Cálculos com NIF (Portugal)
+Cálculos e validações com NIF (Portugal)
